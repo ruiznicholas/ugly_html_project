@@ -1,0 +1,44 @@
+body {
+    background-color: black;
+}
+
+img {
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1 {
+    background-color:rgb(61, 61, 168); 
+    color:yellow; 
+    text-align: center; 
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    color:white;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#starters_image_div {
+    border: 10px solid blue;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+    width: 405px;
+}
+
+.list {
+    color:white;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.pokemon_names {
+    color: white;
+}
+
+.pokemon_description {
+    color: white;
+}
